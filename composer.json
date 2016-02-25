@@ -1,0 +1,15 @@
+{
+    "name": "cfrutos/php-interop",
+    "authors": [
+        {
+            "name": "Carlos Frutos",
+            "email": "carlos@kiwing.it"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PhpInterop\\": "src"
+        }
+    },
+    "require": {}
+}
